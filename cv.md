@@ -23,5 +23,11 @@ function array_diff(a, b) {
 **Specialty:** legal
 **Qualification:** specialist
 
-ITEA It education academy
-![sertificate](/assets/images/markdown/markdown.png)
+[ITEA](https://itea.ua) It education academy
+Successfully atendand _Fundamental of programming_
+
+#### Languages:
+Ukrainian: native
+Russian: proficiency
+English: intermediate/upper-intermediate
+
