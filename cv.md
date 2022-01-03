@@ -7,9 +7,9 @@
 
 ### About me: My name is Vasiliy. Recently I started learning web development and also became a student at rsschool. One of the reasons why I started to study this is web development and information technologies are relevant and respective nowdays. I have practically no experience in this field.
 #### Skills:
-*** HTML ***
-*** CSS ***
-*** JavaScript *** (Basic)
+**HTML**
+**CSS**
+**JavaScript** (Basic)
 
 #### Code exapmle: 
 ```
@@ -19,9 +19,9 @@ function array_diff(a, b) {
 ```
 
 #### Education:
-** Uzhhorod National University **
-** Specialty: ** legal
-** Qualification: ** specialist
+**Uzhhorod National University**
+**Specialty:** legal
+**Qualification:** specialist
 
 ITEA It education academy
-![sertificate](Desktop/sertificate.png)
+![sertificate](/assets/images/markdown/markdown.png)
