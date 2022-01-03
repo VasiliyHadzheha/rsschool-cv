@@ -19,15 +19,15 @@ function array_diff(a, b) {
 ```
 
 #### Education:
-**Uzhhorod National University**
-**Specialty:** legal
-**Qualification:** specialist
+* **Uzhhorod National University**
+* **Specialty:** legal
+* **Qualification:** specialist
 
-[ITEA](https://itea.ua) It education academy
+[ITEA](https://itea.ua) It education academy <br>
 Successfully atendand _Fundamental of programming_
 
 #### Languages:
-Ukrainian: native
-Russian: proficiency
-English: intermediate/upper-intermediate
+* Ukrainian: native
+* Russian: proficiency
+* English: intermediate/upper-intermediate
 
