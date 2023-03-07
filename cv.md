@@ -13,9 +13,13 @@
 
 #### Code exapmle: 
 ```
-function array_diff(a, b) {
-  return a.filter(x=>b.indexOf(x));
-}
+// function calculate(...arguments) {
+//   const sum1 = arguments.reduce((acc, a) => acc + a, 0)
+//     return (...arguments2) => {
+//       let sum2 = arguments2.reduce((acc, a) => acc + a, 0)
+//       return  sum1 + sum2
+//   }
+// }
 ```
 
 #### Education:
