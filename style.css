@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&display=swap');
+*{
+    font-family: 'Luxurious Roman', cursive;
+}
+body {
+    background-color: rgb(141, 136, 70, 0.5);
+    padding: 20px;
+}
+.codeContainer {
+    border-width: 2px;
+    border-color: rgb(0, 0, 0);
+    border: solid 1px;
+    padding: 15px;
+    width: 300px;
+
+}
+.aboutMeContainer {
+    width: 500px;
+}
+.image {
+    width: 140px;
+    height: 160px;
+}
